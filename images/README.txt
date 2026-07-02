@@ -1,0 +1,1 @@
+Replace hp.jpg, dell.jpg, lenovo.jpg with your laptop photos.
